@@ -1,5 +1,4 @@
-# Hello World Example
+# ESP IMU
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+Simple ESP 32 FreeRTOS driver for the MPU 6050 and a demo project that uses the driver to stream readings out over uart. 
+Eventually it would be fun to stream the readings out using WIFI. 
